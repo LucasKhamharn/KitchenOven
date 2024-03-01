@@ -8,8 +8,6 @@
 #ifndef Oven_hpp
 #define Oven_hpp
 
-#include <stdio.h>
-
 class Oven
 {
     
